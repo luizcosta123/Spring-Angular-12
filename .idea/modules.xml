@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Projetos - Angular.iml" filepath="$PROJECT_DIR$/.idea/Projetos - Angular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helpdesk/chamado.iml" filepath="$PROJECT_DIR$/helpdesk/chamado.iml" />
       <module fileurl="file://$PROJECT_DIR$/helpdesk/helpdesk.iml" filepath="$PROJECT_DIR$/helpdesk/helpdesk.iml" />
     </modules>
   </component>
